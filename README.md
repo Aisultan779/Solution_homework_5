@@ -61,7 +61,7 @@ src/
 ```
 
 ## 🖼️ UML Диаграмма
-![UML диаграмма](docs/uml_diagrams/project_structure.png)
+//www.plantuml.com/plantuml/png/hP71Ri8m38RlVOeSYzQ-0KASa7P0ciPUm0JJHNFIAd4bectlFfQimLHSqEZ9SUpl__zq7HWyZvOgunZz4JIgPmiTgizAdRydTJ1X88XlxwFTEp1KBwulDYDHsZXVV5UL9WX1lI9GnXWx45fq7AwuhTgnDwvJHqFem6A6NXRhsVtYFtPIuyNtftYVdrO4yLELzGJpGLQppFAh5QgYAGIdM5iOjk0_q9SGnh4wYJh-rNbinv5G1OuqXIY4EcqsUQcP7iFetfM3xgdtvKImHqh0MIhnxbAsM1JegIFuiYL5RZ8teBdtiQ030nlz6sgP0OsSNkNa8Tijmy9YXvoA-fxuAUxbJxJjIZAh6tRd8sjqXz7I3m00
 
 ## 🎯 Вывод
 - ✅ `Proxy Pattern` улучшил производительность загрузки изображений.
